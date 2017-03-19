@@ -66,3 +66,13 @@ https://github.com/adaptivethreat/Empire/blob/master/data/module_source/privesc/
 
 	Author: @enigma0x3, @harmj0y, Vozzie
 	License: BSD 3-Clause
+
+uac-compmgmtlauncher: Bypass UAC with compmgmtlauncher.exe - fileless similar to eventvwr.exe
+
+	Author: @enigma0x3
+	License: BSD 3-Clause
+	
+uac-sdclt.exe: Bypass UAC with sdclt.exe
+
+	Author: @enigma0x3
+	License: BSD 3-Clause
